@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Auxiliary view cannot be used for determining _________.",
+      "answers": {
+        "a": "True length of the line",
+        "b": "Point view of the line",
+        "c": "Edge view of Line",
+        "d": "The apparent size"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Auxiliary plane are of ______ type.",
+      "answers": {
+        "a": "2",
+        "b": "6",
+        "c": "1",
+        "d": "3"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What are the non-parallel and non-intersecting line called ________",
+      "answers": {
+        "a": "Spiral line",
+        "b": "Parallel line",
+        "c": "Skew line",
+        "d": "Perpendicular line"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The plane appears as a foreshortened surface in all the projection planes is known as ________.",
+      "answers": {
+        "a": "Parallel plane",
+        "b": "Vertical plane",
+        "c": "Slant plane",
+        "d": "Horizontal plane"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Auxiliary Vertical Plane’s Inclination is denoted by which symbol ________.",
+      "answers": {
+        "a": "φ",
+        "b": "α",
+        "c": "β",
+        "d": "θ"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

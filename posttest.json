@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "To save space on drawing or to save time _______ view may be",
+      "answers": {
+        "a": "Half auxiliary",
+        "b": "Full auxiliary",
+        "c": "Front",
+        "d": "Top"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Auxiliary views tend to make use of ________ projection.",
+      "answers": {
+        "a": "Orthographic",
+        "b": "Axonometric",
+        "c": "Oblique",
+        "d": "Isometric"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In _________ the parallel projection rays are not perpendicular to the viewing plane as with orthographic projection but strike the projection plane at an angle other than 90 degrees.",
+      "answers": {
+        "a": "Isometric projections",
+        "b": "Orthographic projections",
+        "c": "Axonometric projection",
+        "d": "Oblique projection"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The front and top view sometimes are not sufficient to convey all the information regarding the object. Additional views are therefore projected on other planes known as ________.",
+      "answers": {
+        "a": "Auxiliary vertical plane",
+        "b": "Auxiliary inclined plane",
+        "c": "Auxiliary plane",
+        "d": "Horizontal & Vertical plane"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "What is the angle between AVP and HP ________.",
+      "answers": {
+        "a": "90 deg",
+        "b": "180deg",
+        "c": "0 deg",
+        "d": "Can be anything"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

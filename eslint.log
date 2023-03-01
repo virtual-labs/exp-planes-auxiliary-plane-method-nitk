@@ -1,0 +1,6 @@
+
+/home/runner/work/exp-planes-auxiliary-plane-method-nitk/exp-planes-auxiliary-plane-method-nitk/experiment/simulation/js/sample1.js
+  30:10  warning  'navNext' is defined but never used  no-unused-vars
+
+✖ 1 problem (0 errors, 1 warning)
+
